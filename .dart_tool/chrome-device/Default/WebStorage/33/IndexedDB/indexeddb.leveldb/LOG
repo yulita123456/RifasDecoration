@@ -1,0 +1,25 @@
+2024/06/30-15:50:31.833 3228 Reusing MANIFEST C:\Users\LENOVO\AppData\Local\Temp\flutter_tools.1d71401a\flutter_tools_chrome_device.14b775fc\Default\WebStorage\33\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2024/06/30-15:50:31.834 3228 Recovering log #4
+2024/06/30-15:50:31.834 3228 Reusing old log C:\Users\LENOVO\AppData\Local\Temp\flutter_tools.1d71401a\flutter_tools_chrome_device.14b775fc\Default\WebStorage\33\IndexedDB\indexeddb.leveldb/000004.log 
+2024/06/30-15:50:31.841 3e18 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/30-15:50:46.332 3e18 Level-0 table #8: started
+2024/06/30-15:50:46.336 3e18 Level-0 table #8: 6748 bytes OK
+2024/06/30-15:50:46.338 3e18 Delete type=0 #4
+2024/06/30-15:50:46.339 3228 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/30-15:50:56.661 3e18 Level-0 table #10: started
+2024/06/30-15:50:56.663 3e18 Level-0 table #10: 2991 bytes OK
+2024/06/30-15:50:56.665 3e18 Delete type=0 #7
+2024/06/30-15:50:56.666 1e08 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 222 : 1
+2024/06/30-15:50:56.666 1e08 Compacting 1@0 + 1@1 files
+2024/06/30-15:50:56.668 1e08 Generated table #11@0: 73 keys, 7079 bytes
+2024/06/30-15:50:56.668 1e08 Compacted 1@0 + 1@1 files => 7079 bytes
+2024/06/30-15:50:56.670 1e08 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/30-15:50:56.670 1e08 Delete type=2 #10
+2024/06/30-15:50:56.671 1e08 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 222 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/30-15:51:04.668 1e08 Compacting 1@1 + 1@2 files
+2024/06/30-15:51:04.671 1e08 Generated table #12@1: 42 keys, 6783 bytes
+2024/06/30-15:51:04.671 1e08 Compacted 1@1 + 1@2 files => 6783 bytes
+2024/06/30-15:51:04.673 1e08 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/30-15:51:04.673 1e08 Delete type=2 #5
+2024/06/30-15:51:04.673 1e08 Delete type=2 #8
+2024/06/30-15:51:04.673 1e08 Delete type=2 #11

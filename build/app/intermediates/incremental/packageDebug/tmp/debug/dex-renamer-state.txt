@@ -1,0 +1,4 @@
+#Sat Jun 01 20:11:44 WIB 2024
+base.0=D\:\\Semester 4\\Proyek 3\\Aplikasi\\login_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

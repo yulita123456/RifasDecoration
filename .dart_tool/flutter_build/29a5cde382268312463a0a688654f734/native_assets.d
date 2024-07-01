@@ -1,0 +1,1 @@
+ D:\\Semester\ 4\\Proyek\ 3\\Aplikasi\\login_app\\.dart_tool\\flutter_build\\29a5cde382268312463a0a688654f734\\native_assets.yaml: 

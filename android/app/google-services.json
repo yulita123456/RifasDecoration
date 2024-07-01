@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656141962765",
+    "project_id": "project-rifas-3",
+    "storage_bucket": "project-rifas-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656141962765:android:7efcc7d84c97df8fa88f44",
+        "android_client_info": {
+          "package_name": "com.company.rifas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgSMNwvjwxLwS_13ImcUVaNZeDO4grjVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
